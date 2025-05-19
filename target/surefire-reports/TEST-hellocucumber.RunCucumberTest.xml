@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="hellocucumber.RunCucumberTest" time="0.202" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Projects\SpringProjects\Cucumber\hellocucumber\target\test-classes;C:\Projects\SpringProjects\Cucumber\hellocucumber\target\classes;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\cucumber-java\7.22.2\cucumber-java-7.22.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\cucumber-core\7.22.2\cucumber-core-7.22.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\cucumber-gherkin\7.22.2\cucumber-gherkin-7.22.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.22.2\cucumber-gherkin-messages-7.22.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\gherkin\32.1.1\gherkin-32.1.1.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\messages\27.2.0\messages-27.2.0.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\testng-xml-formatter\0.3.1\testng-xml-formatter-0.3.1.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\query\13.2.0\query-13.2.0.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\tag-expressions\6.1.2\tag-expressions-6.1.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\cucumber-expressions\18.0.1\cucumber-expressions-18.0.1.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\datatable\7.22.2\datatable-7.22.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\cucumber-plugin\7.22.2\cucumber-plugin-7.22.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\docstring\7.22.2\docstring-7.22.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\html-formatter\21.10.1\html-formatter-21.10.1.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\junit-xml-formatter\0.7.1\junit-xml-formatter-0.7.1.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\cucumber-junit-platform-engine\7.22.2\cucumber-junit-platform-engine-7.22.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\junit\platform\junit-platform-engine\1.12.2\junit-platform-engine-1.12.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\junit\platform\junit-platform-commons\1.12.2\junit-platform-commons-1.12.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\junit\platform\junit-platform-suite\1.12.2\junit-platform-suite-1.12.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\junit\platform\junit-platform-suite-api\1.12.2\junit-platform-suite-api-1.12.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.12.2\junit-platform-suite-engine-1.12.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.12.2\junit-platform-suite-commons-1.12.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\junit\platform\junit-platform-launcher\1.12.2\junit-platform-launcher-1.12.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\assertj\assertj-core\3.27.3\assertj-core-3.27.3.jar;C:\Users\dimitri.steffanoni\.m2\repository\net\bytebuddy\byte-buddy\1.15.11\byte-buddy-1.15.11.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Rome"/>
+    <property name="user.country.format" value="IT"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\dimitri.steffanoni\AppData\Local\Temp\surefire3521975593692462509\surefirebooter-20250519164825083_3.jar C:\Users\dimitri.steffanoni\AppData\Local\Temp\surefire3521975593692462509 2025-05-19T16-48-24_872-jvmRun1 surefire-20250519164825083_1tmp surefire_0-20250519164825083_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Projects\SpringProjects\Cucumber\hellocucumber\target\test-classes;C:\Projects\SpringProjects\Cucumber\hellocucumber\target\classes;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\cucumber-java\7.22.2\cucumber-java-7.22.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\cucumber-core\7.22.2\cucumber-core-7.22.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\cucumber-gherkin\7.22.2\cucumber-gherkin-7.22.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.22.2\cucumber-gherkin-messages-7.22.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\gherkin\32.1.1\gherkin-32.1.1.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\messages\27.2.0\messages-27.2.0.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\testng-xml-formatter\0.3.1\testng-xml-formatter-0.3.1.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\query\13.2.0\query-13.2.0.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\tag-expressions\6.1.2\tag-expressions-6.1.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\cucumber-expressions\18.0.1\cucumber-expressions-18.0.1.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\datatable\7.22.2\datatable-7.22.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\cucumber-plugin\7.22.2\cucumber-plugin-7.22.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\docstring\7.22.2\docstring-7.22.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\html-formatter\21.10.1\html-formatter-21.10.1.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\junit-xml-formatter\0.7.1\junit-xml-formatter-0.7.1.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\io\cucumber\cucumber-junit-platform-engine\7.22.2\cucumber-junit-platform-engine-7.22.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\junit\platform\junit-platform-engine\1.12.2\junit-platform-engine-1.12.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\junit\platform\junit-platform-commons\1.12.2\junit-platform-commons-1.12.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\junit\platform\junit-platform-suite\1.12.2\junit-platform-suite-1.12.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\junit\platform\junit-platform-suite-api\1.12.2\junit-platform-suite-api-1.12.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.12.2\junit-platform-suite-engine-1.12.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.12.2\junit-platform-suite-commons-1.12.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\junit\platform\junit-platform-launcher\1.12.2\junit-platform-launcher-1.12.2.jar;C:\Users\dimitri.steffanoni\.m2\repository\org\assertj\assertj-core\3.27.3\assertj-core-3.27.3.jar;C:\Users\dimitri.steffanoni\.m2\repository\net\bytebuddy\byte-buddy\1.15.11\byte-buddy-1.15.11.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\dimitri.steffanoni"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-07-16"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Projects\SpringProjects\Cucumber\hellocucumber"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\dimitri.steffanoni\AppData\Local\Temp\surefire3521975593692462509\surefirebooter-20250519164825083_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.12+8-LTS-286"/>
+    <property name="user.name" value="dimitri.steffanoni"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\dimitri.steffanoni\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\DIMITR~1.STE\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.12"/>
+    <property name="user.dir" value="C:\Projects\SpringProjects\Cucumber\hellocucumber"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.language.format" value="it"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\DEV\apache-maven-3.9.9\bin;C:\Users\dimitri.steffanoni\AppData\Local\Microsoft\WindowsApps;C:\Users\dimitri.steffanoni\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.1.1.1\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.12+8-LTS-286"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="Is it Friday yet? - Today is or is not Friday - Examples - Example #1.1" classname="Is it Friday yet? - Today is or is not Friday - Examples" time="0.108">
+    <system-out><![CDATA[
+Scenario Outline: Today is or is not Friday &amp#27;[90m# hellocucumber/is_it_friday_yet.feature:11&amp#27;[0m
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mtoday is &amp#27;[0m&amp#27;[32m&amp#27;[1m"Friday"&amp#27;[0m                   &amp#27;[90m# hellocucumber.StepDefinitions.today_is(java.lang.String)&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mI ask whether it's Friday yet&amp#27;[0m        &amp#27;[90m# hellocucumber.StepDefinitions.i_ask_whether_it_s_Friday_yet()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mI should be told &amp#27;[0m&amp#27;[32m&amp#27;[1m"TGIF"&amp#27;[0m              &amp#27;[90m# hellocucumber.StepDefinitions.i_should_be_told(java.lang.String)&amp#27;[0m
+]]></system-out>
+  </testcase>
+  <testcase name="Is it Friday yet? - Today is or is not Friday - Examples - Example #1.2" classname="Is it Friday yet? - Today is or is not Friday - Examples" time="0.002">
+    <system-out><![CDATA[
+Scenario Outline: Today is or is not Friday &amp#27;[90m# hellocucumber/is_it_friday_yet.feature:12&amp#27;[0m
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mtoday is &amp#27;[0m&amp#27;[32m&amp#27;[1m"Sunday"&amp#27;[0m                   &amp#27;[90m# hellocucumber.StepDefinitions.today_is(java.lang.String)&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mI ask whether it's Friday yet&amp#27;[0m        &amp#27;[90m# hellocucumber.StepDefinitions.i_ask_whether_it_s_Friday_yet()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mI should be told &amp#27;[0m&amp#27;[32m&amp#27;[1m"Nope"&amp#27;[0m              &amp#27;[90m# hellocucumber.StepDefinitions.i_should_be_told(java.lang.String)&amp#27;[0m
+]]></system-out>
+  </testcase>
+  <testcase name="Is it Friday yet? - Today is or is not Friday - Examples - Example #1.3" classname="Is it Friday yet? - Today is or is not Friday - Examples" time="0.001">
+    <system-out><![CDATA[
+Scenario Outline: Today is or is not Friday &amp#27;[90m# hellocucumber/is_it_friday_yet.feature:13&amp#27;[0m
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mtoday is &amp#27;[0m&amp#27;[32m&amp#27;[1m"anything else!"&amp#27;[0m           &amp#27;[90m# hellocucumber.StepDefinitions.today_is(java.lang.String)&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mI ask whether it's Friday yet&amp#27;[0m        &amp#27;[90m# hellocucumber.StepDefinitions.i_ask_whether_it_s_Friday_yet()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mI should be told &amp#27;[0m&amp#27;[32m&amp#27;[1m"Nope"&amp#27;[0m              &amp#27;[90m# hellocucumber.StepDefinitions.i_should_be_told(java.lang.String)&amp#27;[0m
+]]></system-out>
+  </testcase>
+</testsuite>
